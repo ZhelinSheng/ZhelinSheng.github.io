@@ -1,0 +1,35 @@
+
+		
+.menu ul{
+	
+	margin: 20px auto;
+	padding-left: 0;
+	list-style-type: none;
+	display: flex;
+	justify-content: center;
+	
+}
+
+.menu li {
+			border: 1px solid #75ACE4;
+			
+			margin: 20px auto
+}
+
+
+.menu a{
+	display: block;
+	text-decoration: none;
+	color: #333333;
+	padding: 5px 10px;
+}
+		
+.menu a:hover {
+	color: #0081C2;
+	background-color: #dddddd;
+}
+	
+.menu a.is-current {
+	color: white;
+	background-color: teal;
+}
