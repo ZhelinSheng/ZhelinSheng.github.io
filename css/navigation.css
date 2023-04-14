@@ -33,3 +33,26 @@
 	color: white;
 	background-color: teal;
 }
+
+@media (max-width: 400px) {
+	.menu ul {
+		display: block;
+	}
+	
+	.menu a {
+		text-align: center;
+		padding: 10px;
+	}
+	
+	.menu li {
+		margin: 5px;
+		border-radius: 5px;
+	}
+	
+	.menu a.is-current {
+		background-color: transparent;
+		font-weight: bold;
+		font-style: italic;
+		color: blue;
+	}
+}
