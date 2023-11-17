@@ -169,6 +169,12 @@ header, footer, nav, .lead, .yellow, .orange {
 	padding: 5px;
 }
 
+.photo-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+
 
 
 
