@@ -106,6 +106,9 @@ a:active {
   color: green;
 }
 
+a:visited {
+  color: blue;
+}
 
 h2:first-child {
   color: #AD235D;
