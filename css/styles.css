@@ -106,12 +106,6 @@ a:active {
   color: green;
 }
 
-a:visited {
-  color: navy;
-}
-
-
-
 
 h2:first-child {
   color: #AD235D;
